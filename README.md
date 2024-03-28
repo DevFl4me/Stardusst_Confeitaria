@@ -1,2 +1,2 @@
-# Stardusst_Confeitaria
- confeitaria de doces
+# Stardust-Confeitaria
+ Loja de confeitaria

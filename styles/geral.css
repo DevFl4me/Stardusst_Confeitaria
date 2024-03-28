@@ -1,0 +1,58 @@
+@font-face {
+    font-family:Whocats;
+    src: url(../fonts/whocats/Whocats.otf);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    color: rgba(173, 15, 173, 0.644);
+    font-family:'Courier New', Courier, monospace;
+}
+nav{
+    padding: 50px;
+    background-color: rgba(255, 5, 234, 0.247);
+    box-shadow: 10px 4px 20px 4px;
+}
+body{
+    background-image:linear-gradient(to left,rgba(218, 163, 255, 0.404),rgba(255, 220, 255, 0.966));
+    cursor: url("../images/rosquinha.png"), auto;
+}
+.produtos{
+    background-color: blueviolet;
+    width: 400px;
+    height: 500px;
+    margin: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20%;
+    box-shadow: 4px 10px 70px 20px rgba(0, 0, 0, 0.377);
+
+}
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style: none;
+}
+li{
+    font-size: 20px;
+    font-family: Whocats;
+}
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 220px;
+}
+#logo{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 5px 5px;
+    width:100%;
+    
+}
+#logo{
+    font-family: Whocats;
+}
